@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="${XRAYR_REPO:-JackHONGhy/xrayr-automated-install-script}"
+REPO="${XRAYR_REPO:-xhrzg2017/xrayr-automated-install-script}"
 BRANCH="${XRAYR_BRANCH:-master}"
 MANAGER="xrayr-manager.sh"
 BASE_URL="${XRAYR_BASE_URL:-https://raw.githubusercontent.com/${REPO}/${BRANCH}}"
